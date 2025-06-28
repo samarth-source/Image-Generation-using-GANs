@@ -11,7 +11,7 @@ Gen AI is a project focused on generating CIFAR-10-like images using Generative 
   - [Generation](#generation)
 - [Note](#note)
 - [Screenshots](#screenshots)
-- [License](#license)
+
 
 ## Key Features
 - Trains a custom GAN model on the CIFAR-10 dataset.
